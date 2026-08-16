@@ -1,6 +1,6 @@
-# AT&S AI Assistant — Best Practice Guidelines
+# AI Assistant — Best Practice Guidelines
 
-**Guidelines for responsible and effective AI use at AT&S**
+**Guidelines for responsible and effective AI use in companies**
 
 ---
 

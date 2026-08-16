@@ -1,4 +1,4 @@
-# AT&S AI Assistant — User Guide
+# AI Assistant — User Guide
 
 **For all AT&S employees — no technical knowledge required**
 
@@ -6,7 +6,7 @@
 
 ## What is this tool?
 
-The AT&S AI Assistant helps you understand documents and get answers to your questions quickly. Think of it as a smart colleague who has read your document and can explain it to you in plain language.
+The AI Assistant helps you understand documents and get answers to your questions quickly. Think of it as a smart colleague who has read your document and can explain it to you in plain language.
 
 You can:
 - **Upload a document** (PDF, Word, or text file) and ask questions about it

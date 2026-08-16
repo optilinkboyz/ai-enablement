@@ -1,9 +1,21 @@
-*.zip
+# Environment files - NEVER commit these
+.env
+.env.*
+!.env.example
+*.env.save
+*.save
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
-.env
-node_modules/
-.DS_Store
 venv/
 *.egg-info/
+
+# Node
+node_modules/
+build/
+
+# Misc
+*.zip
+.DS_Store

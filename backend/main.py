@@ -1,5 +1,5 @@
 """
-AT&S AI Enablement Starter Kit — Backend
+AI Enablement Starter Kit — Backend
 =========================================
 FastAPI application entry point.
 Registers all routes and configures middleware.
@@ -30,9 +30,9 @@ logger = logging.getLogger(__name__)
 
 # ── App Initialisation ────────────────────────────────────────────────────────
 app = FastAPI(
-    title="AT&S AI Enablement Starter Kit",
+    title="AI Enablement Starter Kit",
     description="""
-    A lightweight AI assistant for AT&S employees.
+    A lightweight AI assistant for employees.
     
     ## Features
     - **Upload** PDF, DOCX, or TXT documents
@@ -40,12 +40,12 @@ app = FastAPI(
     - **Summarise** documents at different detail levels
     
     ## Who is this for?
-    All AT&S employees — no technical knowledge required.
+    All employees — no technical knowledge required.
     """,
     version="1.0.0",
     contact={
-        "name": "Corporate IT — Digital & AI Enablement",
-        "email": "it@ats.net"
+        "name": "IT & Digital Enablement Team",
+        "email": "your-support-email@example.com"
     }
 )
 
@@ -79,14 +79,14 @@ async def health_check():
     return HealthResponse(
         status="healthy",
         version="1.0.0",
-        message="AT&S AI Enablement API is running."
+        message="your organisation AI Enablement API is running."
     )
 
 
 @app.get("/", tags=["System"], include_in_schema=False)
 async def root():
     return {
-        "message": "AT&S AI Enablement Starter Kit API",
+        "message": "AI Enablement Starter Kit API",
         "docs": "/docs",
         "health": "/health"
     }

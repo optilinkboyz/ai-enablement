@@ -25,7 +25,7 @@ class AskRequest(BaseModel):
         json_schema_extra = {
             "example": {
                 "question": "What is the main topic of this document?",
-                "document_context": "This document describes AT&S quality standards..."
+                "document_context": "This document describes your organisation quality standards..."
             }
         }
 

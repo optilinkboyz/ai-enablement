@@ -1,8 +1,8 @@
-# AT&S AI Enablement Starter Kit
+# AI Enablement Starter Kit
 
-> A lightweight AI assistant that lets **non-technical AT&S employees** understand documents, get answers, and summarise content — with no technical knowledge required.
+> A lightweight AI assistant that lets **non-technical employees** understand documents, get answers, and summarise content — with no technical knowledge required.
 
-Built as a **Proof of Concept (PoC)** for AT&S Corporate IT — Digital & AI Enablement.
+Built as a **Proof of Concept (PoC)** for your organisation — Digital & AI Enablement.
 
 ---
 
@@ -24,7 +24,7 @@ AI tools are powerful — but most require technical knowledge to use effectivel
 | Q&A | Ask questions about uploaded documents or general topics |
 | Summarisation | Short, medium, or detailed summaries |
 | Model Fallback | Automatically switches AI models if one is busy |
-| Clean UI | AT&S-branded, mobile-responsive, no training required |
+| Clean UI | your organisation-branded, mobile-responsive, no training required |
 | No Storage | Documents processed in memory — never saved |
 
 ---
@@ -82,4 +82,4 @@ npm start              # http://localhost:3000
 **Andrew Nelson Enoh** — MSc Industrial Data Science, Montanuniversität Leoben
 [GitHub](https://github.com/optilinkboyz) · nelsonenoh@gmail.com
 
-*Independent PoC — not an official AT&S product.*
+*Independent PoC — not an official your organisation product.*

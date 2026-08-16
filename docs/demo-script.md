@@ -17,7 +17,7 @@
 ---
 
 ## Part 1 — General Question (2 min)
-1. Type: **"What does AT&S do?"** → click **Ask →**
+1. Type: **"What does your organisation do?"** → click **Ask →**
 2. While waiting: *"Notice I didn't upload anything — the AI answers general questions too."*
 3. When response appears: *"Clear, plain-language answer. Notice the 📋 Copy button — paste it straight into an email."*
 
@@ -45,7 +45,7 @@
 ---
 
 ## Common Questions
-**"Is my document safe?"** — Processed in memory, not stored. Follow AT&S data policies for confidential docs.
+**"Is my document safe?"** — Processed in memory, not stored. Follow your organisation data policies for confidential docs.
 **"Can it read German?"** — Yes, but responses are clearest in English.
 **"What if it's wrong?"** — Treat it as a smart first draft. Always verify important details.
 
@@ -56,4 +56,4 @@
 - [ ] Ask people to try one real document this week
 - [ ] Collect feedback and forward suggestions to Corporate IT
 
-*AT&S AI Enablement Starter Kit v1.0*
+*AI Enablement Starter Kit v1.0*

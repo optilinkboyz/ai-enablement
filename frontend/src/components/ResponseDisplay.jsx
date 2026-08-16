@@ -23,7 +23,7 @@ export default function ResponseDisplay({ results, error }) {
             <ul>
               <li>"What are the main points of this document?"</li>
               <li>"Summarise this report for my manager"</li>
-              <li>"What does AT&S do?"</li>
+              <li>"What does your organisation do?"</li>
               <li>"List all action items mentioned"</li>
             </ul>
           </div>

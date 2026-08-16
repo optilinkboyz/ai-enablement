@@ -1,6 +1,6 @@
 # AI Assistant — User Guide
 
-**For all AT&S employees — no technical knowledge required**
+**For all employees — no technical knowledge required**
 
 ---
 
@@ -18,7 +18,7 @@ You can:
 ## Getting Started (3 steps)
 
 ### Step 1 — Open the tool
-Open your web browser and go to the AT&S AI Assistant link provided by Corporate IT.
+Open your web browser and go to the AI Assistant link provided by Corporate IT.
 
 You will see two panels:
 - **Left side** — where you upload documents and ask questions
@@ -51,7 +51,7 @@ You will see two panels:
 | A technical spec | *"Explain this in simple terms for a non-engineer"* |
 | A policy document | *"What are the key rules I need to follow?"* |
 | A supplier contract | *"What are the payment terms and delivery deadlines?"* |
-| No document | *"What does AT&S do?"* |
+| No document | *"What does your organisation do?"* |
 
 ---
 
@@ -77,7 +77,7 @@ PDF (.pdf), Word (.docx), plain text (.txt). Max 10MB.
 The information is not in the uploaded document. Try rephrasing or check the right document is uploaded.
 
 **Can I use this for confidential documents?**
-Follow AT&S data handling policies. Do not upload confidential documents without checking with your manager or Corporate IT.
+Follow your organisation data handling policies. Do not upload confidential documents without checking with your manager or Corporate IT.
 
 **Can I ask in German?**
 Yes — the AI understands German. Responses are clearest in English.
@@ -85,6 +85,6 @@ Yes — the AI understands German. Responses are clearest in English.
 ---
 
 ## Need Help?
-**Corporate IT — Digital & AI Enablement:** it@ats.net
+**IT & Digital Enablement Team:** your-support-email@example.com
 
-*AT&S AI Enablement Starter Kit v1.0*
+*AI Enablement Starter Kit v1.0*

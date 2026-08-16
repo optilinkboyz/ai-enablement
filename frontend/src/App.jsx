@@ -41,7 +41,7 @@ export default function App() {
           <div className="header-logo">
             <span className="logo-icon">⚡</span>
             <div>
-              <h1 className="header-title">AT&S AI Assistant</h1>
+              <h1 className="header-title">AI Assistant</h1>
               <p className="header-subtitle">Digital & AI Enablement — Corporate IT</p>
             </div>
           </div>
@@ -71,7 +71,7 @@ export default function App() {
         </div>
       </main>
       <footer className="app-footer">
-        <p>AT&S AI Enablement Starter Kit &bull; Corporate IT &bull; <span className="footer-version">v1.0.0</span></p>
+        <p>AI Enablement Starter Kit &bull; Corporate IT &bull; <span className="footer-version">v1.0.0</span></p>
       </footer>
     </div>
   );

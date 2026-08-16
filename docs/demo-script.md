@@ -1,18 +1,18 @@
-# AT&S AI Assistant — Demo Script
+# AI Assistant — Demo Script
 
 **10-minute team demonstration guide for team leads and Corporate IT**
 
 ---
 
 ## Before You Start
-- [ ] Open the AT&S AI Assistant in your browser
+- [ ] Open the AI Assistant in your browser
 - [ ] Prepare a non-confidential sample document (internal report or meeting minutes)
 - [ ] Share your screen if remote
 
 ---
 
 ## Opening (1 min)
-> "Today I want to show you a new tool from Corporate IT — the AT&S AI Assistant. It helps you understand documents faster and answer questions about them. It takes 30 seconds to learn."
+> "Today I want to show you a new tool from Corporate IT — the AI Assistant. It helps you understand documents faster and answer questions about them. It takes 30 seconds to learn."
 
 ---
 
